@@ -33,9 +33,9 @@ class TabIcon extends Component {
         icon = "settings";
       }
 
-        return (
-            <Icon name={icon} color={this.props.selected ? 'red' :'black'}/>
-        );
+      return (
+          <Icon name={icon} color={this.props.selected ? 'red' :'black'}/>
+      );
     }
 }
 
