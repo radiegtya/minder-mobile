@@ -37,7 +37,7 @@ class Signin extends Component{
           if(err){
             alert(err.message);
           }else{
-            Actions.FindMatch();
+            Actions.tabbar();
           }
         });
     }

@@ -8,6 +8,7 @@
   "dependencies": {
     "react": "15.2.1",
     "react-native": "^0.30.0",
+    "react-native-material-design": "^0.3.7",
     "react-native-meteor": "^1.0.0-rc14",
     "react-native-router-flux": "^3.32.0",
     "tcomb-form-native": "^0.6.0"
